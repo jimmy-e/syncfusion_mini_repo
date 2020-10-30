@@ -1,0 +1,11 @@
+# Browsers that we support
+# We're not really using browserslist right now, so turning off this config given this config is
+# causing conflicts with running storybook. see the below issue. Hopefully a solution is found.
+# - Jimmy, 6/25/19
+# https://github.com/browserslist/browserslist/issues/382
+
+# Chrome >= 62
+# Edge => 14
+# Explorer >= 10
+# Firefox =>52
+# Safari => 11

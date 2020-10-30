@@ -1,0 +1,11 @@
+declare module '*.jpg';
+declare module '*.less';
+declare module '*.module.less';
+declare module '*.png';
+declare module '@sambego/storybook-styles';
+declare module '@storybook/addon-knobs';
+declare module 'anychart';
+declare module 'anychart-react';
+declare module 'react-phone-number-input';
+declare module 'react-phone-number-input/smart-input';
+declare module 'quill-image-resize-module';
